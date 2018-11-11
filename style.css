@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 20px;
+	background-color: #DDDDE8;
+}
+
+.gap {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+img{
+	width: 150px;
+	border-radius: 50%;
+	box-shadow: 11px 10px 85px -9px rgba(0,0,0,0.75);
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.bg-light {
+	background-image: url('mrbl.jpg');
+}
+
+.name {
+	text-align: center;
+	font-size:35px;
+	font-family: 'Julius Sans One', sans-serif;
+	font-weight: 800;
+}
+
+.card{
+	box-shadow: 11px 10px 85px -9px rgba(0,0,0,0.75);
+	text-align: center;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.text{
+	font-size: 20px;
+	font-weight: 800;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+.text2{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.text3{
+	font-size: 15px;
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.text4{
+	font-size: 15px;
+	text-align: right;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.infoline{
+	display: flex;
+	justify-content: space-between;
+}
+
+.menuitem{
+	margin-top: 10px;
+	margin-left: 10px;
+}

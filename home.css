@@ -1,0 +1,26 @@
+.home-bg {
+	background-image: url("mf.jpg"); 
+  	height: 100vh;  
+  	position: center;
+  	background-repeat: no-repeat; 
+  	background-size: cover; 
+  	width: 100vw;
+  	
+  }
+
+.text{
+	color: pink;
+	font-family: 'Poiret One', cursive;
+	font-size: 100px;
+	margin-bottom: 20px;
+}
+
+.text2{
+
+	color: pink;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	margin-bottom: 100px;
+}
+  
+  
